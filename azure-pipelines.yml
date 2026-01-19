@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '6315e7ec-f562-4707-981c-bce80ff6f766'
+  azureSubscription: '6a6ec137-34d4-43a9-b519-9b84f2ade9a1'
 
   # Web app name
   webAppName: 'chatchit'
