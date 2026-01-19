@@ -1,0 +1,29 @@
+{
+  "name": "customchat",
+  "version": "1.0.0",
+  "description": "Full-stack AI Chat Application with Azure OpenAI",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run start:dev",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "start:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && npm run start:prod"
+  },
+  "keywords": [
+    "ai",
+    "chat",
+    "azure",
+    "openai",
+    "nextjs",
+    "nestjs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
