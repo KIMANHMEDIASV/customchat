@@ -122,7 +122,7 @@ customchat/
 
 | Layer          | Technology       | Version   |
 |----------------|------------------|-----------|
-| Frontend       | Next.js          | 14.0.4    |
+| Frontend       | Next.js          | 14.2.35   |
 | UI Framework   | React            | 18.2.0    |
 | Styling        | TailwindCSS      | 3.4.0     |
 | State Mgmt     | Zustand          | 4.4.7     |

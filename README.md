@@ -2,6 +2,8 @@
 
 A full-stack AI chat application powered by Azure OpenAI and Azure Foundry, featuring a modern chat interface and comprehensive admin panel.
 
+> **🔒 Security Update:** Next.js has been updated to version 14.2.35 to address critical security vulnerabilities. See [SECURITY_UPDATE.md](SECURITY_UPDATE.md) for details.
+
 ## 🌟 Features
 
 ### User Features
